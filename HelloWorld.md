@@ -1,5 +1,6 @@
+# Primary Heading
 ## This is a markdown file
-
+## Data Science Specialization
 ### Data Science Specialization 
 
 * Uses R 
